@@ -95,3 +95,22 @@ encapsulation : wrapping the data and method into class and avoid direct access 
   1.compile poly method overload here same class same method diff parameter 2.runtime poly @override 
 
 4.abstraction hides implemenet detail and expose only essential functional using abstaract class and interface
+
+
+java collection 
+
+arraylist syntax 
+arraylist<integer> list = new arrraylist<> ();
+list.add(20);
+
+syso(list.get(1));
+
+add()       → add element
+get()       → access element
+set()       → update element
+remove()    → remove element
+size()      → number of elements
+contains()  → check existence
+2.hastset 
+3.hashmap
+    
